@@ -3,4 +3,4 @@
 db.sqlite3
 homeServerApiEnv
 migrate.py
-config.py
+**/cfg.py
